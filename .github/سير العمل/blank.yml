@@ -1,0 +1,2603 @@
+$_GET
+[]
+$_POST
+[]
+$_COOKIE
+[]
+$_SERVER
+array:94 [▼
+  "USER" => "forge"
+  "HOME" => "/home/forge"
+  "HTTP_CDN_LOOP" => "cloudflare"
+  "HTTP_CF_CONNECTING_IP" => "95.187.243.176"
+  "HTTP_CF_REQUEST_ID" => "064d98598d0000f92f15274000000001"
+  "HTTP_ACCEPT_LANGUAGE" => "ar,en;q=0.9,en-GB;q=0.8,en-US;q=0.7"
+  "HTTP_SEC_FETCH_DEST" => "document"
+  "HTTP_SEC_FETCH_MODE" => "navigate"
+  "HTTP_SEC_FETCH_SITE" => "none"
+  "HTTP_ACCEPT" => "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+  "HTTP_USER_AGENT" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63"
+  "HTTP_UPGRADE_INSECURE_REQUESTS" => "1"
+  "HTTP_CF_VISITOR" => "{"scheme":"https"}"
+  "HTTP_X_FORWARDED_PROTO" => "https"
+  "HTTP_CF_RAY" => "5ef5f66f4b82f92f-FRA"
+  "HTTP_X_FORWARDED_FOR" => "95.187.243.176"
+  "HTTP_CF_IPCOUNTRY" => "SA"
+  "HTTP_ACCEPT_ENCODING" => "gzip"
+  "HTTP_CONNECTION" => "Keep-Alive"
+  "HTTP_HOST" => "salla.one"
+  "REDIRECT_STATUS" => "200"
+  "HTTPS" => "on"
+  "SERVER_NAME" => "salla.one"
+  "SERVER_PORT" => "443"
+  "SERVER_ADDR" => "139.59.158.254"
+  "REMOTE_PORT" => ""
+  "REMOTE_ADDR" => "95.187.243.176"
+  "SERVER_SOFTWARE" => "nginx/1.15.8"
+  "GATEWAY_INTERFACE" => "CGI/1.1"
+  "SERVER_PROTOCOL" => "HTTP/1.1"
+  "DOCUMENT_ROOT" => "/home/forge/salla.one/current/public"
+  "DOCUMENT_URI" => "/index.php"
+  "REQUEST_URI" => "/"
+  "SCRIPT_NAME" => "/index.php"
+  "SCRIPT_FILENAME" => "/home/forge/salla.one/current/public/index.php"
+  "CONTENT_LENGTH" => ""
+  "CONTENT_TYPE" => ""
+  "REQUEST_METHOD" => "GET"
+  "QUERY_STRING" => ""
+  "FCGI_ROLE" => "RESPONDER"
+  "PHP_SELF" => "/index.php"
+  "REQUEST_TIME_FLOAT" => 1604908433.8515
+  "REQUEST_TIME" => 1604908433
+  "APP_ENV" => "development"
+  "APP_KEY" => "base64:KHlw5kvT7dVjIoBeiY3914q5PijzlDsP+M12lNFRTjU="
+  "APP_DEBUG" => "true"
+  "APP_LOG_LEVEL" => "debug"
+  "APP_DOMAIN" => "salla.one"
+  "APP_URL" => "https://salla.one"
+  "DEBUGBAR_ENABLED" => "true"
+  "SENTRY_DNS" => "https://a6711d6b80bb404290597fc87646ab14@sentry.salla.sa/3"
+  "APP_CP_DOMAIN" => "https://s.salla.one"
+  "APP_STORES_DOMAIN" => "https://salla.one"
+  "DB_HOST" => "127.0.0.1"
+  "DB_DATABASE" => "salla"
+  "DB_USERNAME" => "forge"
+  "DB_PASSWORD" => "7yT8nLyaXUfboPWCOxYa"
+  "DB_PORT" => "3306"
+  "BROADCAST_DRIVER" => "log"
+  "CACHE_DRIVER" => "redis"
+  "SESSION_DRIVER" => "redis"
+  "QUEUE_DRIVER" => "redis"
+  "REDIS_HOST" => "127.0.0.1"
+  "REDIS_PASSWORD" => "null"
+  "REDIS_PORT" => "6379"
+  "MAIL_DRIVER" => "ses"
+  "MAIL_HOST" => "email-smtp.eu-central-1.amazonaws.com"
+  "MAIL_PORT" => "25"
+  "MAIL_USERNAME" => "AKIAT2PZV5Y3HRHURV4P"
+  "MAIL_PASSWORD" => "eXdSIQZv/mM1IHvN+K1B/5nA3vZes+3uIrycNWb+"
+  "MAIL_ENCRYPTION" => "tls"
+  "PUSHER_APP_ID" => ""
+  "PUSHER_KEY" => ""
+  "PUSHER_SECRET" => ""
+  "HTTP_LOG" => "true"
+  "HTTP_LOG_METHODS" => "post,put,patch,delete"
+  "SESSION_CONNECTION" => "default"
+  "MODEL_CACHE_DISABLED" => "TRUE"
+  "JWT_SECRET" => "vZc4F13D6EMxvOwsRXlOskc1YYlKhgyK14kKWgMP6oSK63S6wWQ28YGSbMM1W9r2"
+  "FAILED_JOB_SLACK_WEBHOOK_URL" => "https://hooks.slack.com/services/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"
+  "SALLA_LOG_ENABLED" => "true"
+  "SALLA_LOG_IP" => "46.101.98.98"
+  "SCOUT_DRIVER" => "Matchish\ScoutElasticSearch\Engines\ElasticSearchEngine"
+  "ELASTICSEARCH_HOST" => "127.0.0.1"
+  "ELASTICSEARCH_PORT" => "9200"
+  "ELASTICSEARCH_SCHEME" => "http"
+  "CACHE_ROUTES" => "false"
+  "GOOGLETAG_ACCOUNT" => "GTM-N27W52C"
+  "RESET_HOOK_ENABLED" => "true"
+  "HORIZON_DOMAIN" => "salla.one"
+  "S3_KEY" => "AKIAT2PZV5Y3CYVRXI5M"
+  "S3_SECRET" => "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"
+  "S3_BUCKET" => "salla-dev"
+  "S3_URL" => "https://s3-eu-central-1.amazonaws.com/salla-dev/"
+]
+
+
+value => [
+  demo_store_user_email => [
+    value => omima1973@hotmail.com, 
+    encrypted => 0, 
+    type => string
+  ], 
+  demo_store_user_password => [
+    value => 123456789, 
+    encrypted => 0, 
+    type => string
+  ], 
+  sms_limit_per_ip => [
+    value => 10, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_tomoh_registration => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_tomoh_batch => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  show_product_subtitle_input => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  shipping_btn_txt => [
+    value => الشحن, 
+    encrypted => 0, 
+    type => string
+  ], 
+  help_center_enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  shipping_vaal_cod_cities_id => [
+    value => [1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,40,41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,78,80,81,82,83,85,86,87,88,89,90,91,92,94,96,97,98,99,100,101,103,104,106,107,108,109,110,112,114,116,118,119,120,122,126,127,128,129,131,135,136,141,142,148,149,150,151,152,153,155,158,159,160,161,166,168,176,184,185,186,189,196,197,204,206,207,216,222,223,234,235,240,246,247,248,249,250,251,252,253,254,257,259,261,265,266,267,268,269,270,271,272,273,274,275,276,277,286,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287], 
+    encrypted => 0, 
+    type => array
+  ], 
+  partner_brj_logo => [
+    value => logo-brj.png, 
+    encrypted => 0, 
+    type => string
+  ], 
+  partner_brj_logo_width => [
+    value => 800, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_brj_logo_height => [
+    value => 1017, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_brj_registration => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_brj_batch => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_tomoh_logo => [
+    value => logo-tomoh.png, 
+    encrypted => 0, 
+    type => string
+  ], 
+  partner_tomoh_logo_width => [
+    value => 675, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_tomoh_logo_height => [
+    value => 212, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  dev_env_otp => [
+    value => 1111, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  limit_update_user_mobile => [
+    value => 5, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  force_disable_sending_campaign => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  force_disable_sending_campaign_message => [
+    value => نعمل على صيانة هامة للحملات التسويقية، لذلك إرسال الحملات متوقف لفترة مؤقتة. شكرا لتفهمكم, 
+    encrypted => 0, 
+    type => string
+  ], 
+  name_domain_price => [
+    value => 8.99, 
+    encrypted => 0, 
+    type => float
+  ], 
+  product_domain_price => [
+    value => 50, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  supported_countries => [
+    value => ["SA","EG"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  smsa_credit_for_send_alert_email => [
+    value => 100, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  custom_thankyou_message => [
+    value => سيتم التواصل معك في أقرب وقت, 
+    encrypted => 0, 
+    type => string
+  ], 
+  test_developer_mobile_phone => [
+    value => 555555555, 
+    encrypted => 0, 
+    type => string
+  ], 
+  test_developer_mobile_code => [
+    value => 1111, 
+    encrypted => 0, 
+    type => string
+  ], 
+  default_sms_getaway => [
+    value => msegat, 
+    encrypted => 0, 
+    type => string
+  ], 
+  alternative_sms_getaway => [
+    value => mobily, 
+    encrypted => 0, 
+    type => string
+  ], 
+  payment:noon:enable => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  payment:noon:sandbox.status => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  payment:noon:sandbox.key => [
+    value => Salla.stores:584979ad3ebe44e8a3b8eeabfb553c4d, 
+    encrypted => 0, 
+    type => string
+  ], 
+  payment:noon:live.key => [
+    value => Salla.stores:584979ad3ebe44e8a3b8eeabfb553c4d, 
+    encrypted => 0, 
+    type => string
+  ], 
+  marketing::celebrity_marketing_email => [
+    value => omimahamod@gmail.com, 
+    encrypted => 0, 
+    type => string
+  ], 
+  snapchat_pixel_enable => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  google_analytics_enable => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  facebook_pixel_enable => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  order::status::complete => [
+    value => [4], 
+    encrypted => 0, 
+    type => array
+  ], 
+  order::status::paid => [
+    value => [3,4,8,9,10], 
+    encrypted => 0, 
+    type => array
+  ], 
+  impex::plan => [
+    value => ["team","plus","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  demo::accessible_emails => [
+    value => ["user@salla.sa"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  inventory::print_export => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  customers::export_customers => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  display_all_feature => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  options_resolution => [
+    value => {"standard_resolution":{"width":1000,"height":1000},"low_resolution":{"width":500,"height":500},"thumbnail":{"width":120,"height":120}}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::one-signal => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  feature:is-aramex-allowed => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  special_offers_enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  landing_page_enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::celebrity-marketing => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  store::sms_sender.emails => [
+    value => ["salah@salla.sa"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  sms::mobily.api-keys => [
+    value => eyJpdiI6Ijhya3c3VXRmM1d1OFVEUEpndDFrMlE9PSIsInZhbHVlIjoiUkZsRTZ0ME1oMmZJQ1dUdDhhYTFyZG1qTGpYM2puTHA0RFV4eFM2WXZsODdGa3I4M01qcjh2bmcrU3htQmd3dUF6NjNpZW5oYXhmb1wvYjdCekhSZEZhWnk5dDIwcnlmT2c1NG0yMkNhZUdQb1Q5RkpSN1U0ZXBlMVdDT3VhclJadXY4YldmMFp0QVJhYVJXcGl0bFRVN3NINkJCMmFTb2MrOWdMNGlLdFhwWT0iLCJtYWMiOiIyYmU2Nzc5NTNjNWM2ODg0ZGZhNDlhMWQxZDA0ZjIxZWY1MzdiY2VjOGE4MGRiYjlmMjIzNDEwZDY3MGM2NTRjIn0=, 
+    encrypted => 1, 
+    type => array
+  ], 
+  sms::infobip.api-keys => [
+    value => eyJpdiI6IkhLeVBqTkE1WEpSS2gweStpTENIWkE9PSIsInZhbHVlIjoiZmtyOExGemYzUmdZbGUwUGUwR0k3XC9JNk0zSWc2R3J6VzlvZWpiem5FTjViblU4ZjdhRG5xazNjc2lERm9vcWlpRFNhZXFTQTgrM2gxSElMb0pKWEVWYjZKNjdpYW91dnhFMkwyMWZGbDYrVFF5elR6NmxrdnZMdlVabURzbG5JU3FKdzdtaURVeEJyQ3dRVXFjQVk2UWEySGlDWUFJNHpRQVlzUFVOQUpTaz0iLCJtYWMiOiJlNDNjMTZkYjU2NjkwNzI4ZWRlNTJmMjcwZTAxNjM2N2UzNGUzOTIwMmI1NmRjODg5ZmNjZjdhYzgyYjhkZDZhIn0=, 
+    encrypted => 1, 
+    type => array
+  ], 
+  payment::document.epayment.charity.emails => [
+    value => ["salah@salla.sa"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  subscription::cancel::limit_return_product_period::theme => [
+    value => 30, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  subscription::cancel::fees => [
+    value => 7, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  features::impex => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::import-products => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::export-products => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  feature::addressee-shipping => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::external-services => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::e-payment-charity => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::sms-sender => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  aramex_account_product_type_in => [
+    value => CDS, 
+    encrypted => 0, 
+    type => string
+  ], 
+  aramex_account_product_group_in => [
+    value => DOM, 
+    encrypted => 0, 
+    type => string
+  ], 
+  aramex_account_product_group_out => [
+    value => DOM, 
+    encrypted => 0, 
+    type => string
+  ], 
+  aramex_account_product_type_out => [
+    value => CDS, 
+    encrypted => 0, 
+    type => string
+  ], 
+  features::google-tag => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::domain => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-menu => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-features => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  feature::instagram-api => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::instagram-api => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  subscription::cancel::limit_return_product_period::sender_name => [
+    value => 15, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_omm.com_registration => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_omm.com_batch => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_test2_registration => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  partner_test2_batch => [
+    value => 1, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  features::special-offer => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::dashboard-api => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  test_developer_email => [
+    value => demo@demo.com, 
+    encrypted => 0, 
+    type => string
+  ], 
+  features::advertisements => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::dhl-shipping-company => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::seo-meta-tag => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::sender-name-ad => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-status => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::support-access => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::available-shipping-companies => [
+    value => [-3, -5, -6, -8, -7, -9,-10,-11], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::aws-email => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::shipping-indicator => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  orders::notify-status => [
+    value => {"email":true,"sms":false}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  orders::notify-digital-code => [
+    value => {"email":true,"sms":false}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  sms::order-status.paid => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  sms::digital-content.paid => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  aramex_credit_for_send_alert_email => [
+    value => 50, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  dhl_credit_for_send_alert_email => [
+    value => 50, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  sms_balance_credit_for_send_alert_email => [
+    value => 50, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  sms-balance => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::breadcrumbs => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  sms::message.paid => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::abandoned-cart-rule => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  complaints-team-ids => [
+    value => [1,2,3], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::sms-balance => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  is_custom_widgets_enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-app-request => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::addressee-shipping => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::customer-group => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  salla::display-copyright => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::remove-salla-copyright => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  max_photo_size => [
+    value => 5242880, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  order::waiting_link => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  is_more_button_enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::customer-group.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-affiliate.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::coupon-affiliate.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-affiliate => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::promotion-title-and-subtitle => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::promotion-title-and-subtitle.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::restore-data => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::restore-data.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-branch => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-branch.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::receiving-orders-times => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::receiving-orders-times.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::import-products.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::export-products.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::seo-meta-tag.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::qoyod-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::daftra-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::daftra-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::qoyod-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::theme-custom-css.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::theme-custom-css => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  salla:payment.mada => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  salla:payment.credit_card => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  salla:payment.paypal => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  salla:payment.bank => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::import-customers.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::export-customers.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::import-customers => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::export-customers => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::update-products.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::update-products => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  settings::disabledYouMayLikeIt => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  accounting::zoho-ids => [
+    value => {"client_id":"1000.F0Q11LGV76RUG4B3O44YNFX5RYN7MH","client_secret":"63a7b3a59de37fb21f0f1a0630e4b7a3842196e5ae"}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::order-setting => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-setting.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-estimate => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-estimate.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::order-estimate.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-sorting => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-sorting.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::advance-free-shipping => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::advance-free-shipping.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  settings::sortingProductOnCategoryPage => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::zoho-books-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::zoho-books-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  temp::storesHooks => [
+    value => [], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::buy_ssl_cert => [
+    value => [2], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::export-product-orders.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::export-product-orders => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::export-all-order-products => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::export-all-order-products.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::cash-on-delivery-settings => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::cash-on-delivery-settings.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  order_instruction => [
+    value => {"thank_title":"شكرا لتسوّقكم عبر متجرنا ☺️","order_instructions_payment_waiting":"طلبك حالياً غير مؤكد !<br>نأمل تأكيد الدفع عبر الرابط المرسل لجوالك","order_instructions_under_review":"تم استقبال طلبك بنجاح<br>ستتم مراجعة الطلب وتأكيده في أقرب وقت","order_instructions_completed":"تم استقبال طلبك بنجاح<br>سيتم تجهيز الطلب في أقرب وقت"}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  is_order_instruction => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::currency => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::currency.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  store-country-currency-supported => [
+    value => ["US","SA","AE"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  domain_move_request_purchase_price => [
+    value => 50, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  features::shipping-indicator.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::quick-checkout.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::quick-checkout => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  send_email_reminder_alert => [
+    value => 12, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  features::tax => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-warehouse-invoice.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-warehouse-invoice => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  settings::displayTestimonials => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::exchange-service-for-coupon => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::exchange-service-for-coupon.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::theme-preview => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::theme-preview.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mail-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mail-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::brands.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::brands => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-checkout.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-checkout => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::landing-pages => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::landing-pages.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  tax::shipping-include-tax => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  cache::cross-cache-enabled => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  payment::fallback-gateway => [
+    value => moyasar, 
+    encrypted => 0, 
+    type => string
+  ], 
+  feature:online_payment => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::dhl-api => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::dhl-api.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  salla::mobile-app.api-key => [
+    value => eyJpdiI6ImtmNkkxakJqQUlzMW9EU3U5ZmlrZHc9PSIsInZhbHVlIjoib0NYTDUxTE9lMVhWUlVMMkI4ZnVaamNOREY4YTZEUjZ5ZGJ6T0pmVEV0YU1mV2REYXFrV1RWd2wyN3ErNzdodlFZaUZVWmpBc3J6VEZTNWpuUFluM1E9PSIsIm1hYyI6Ijk0ZmY5NGVkODczMTVjNTk1MDRiZDIzNjlhMjNhNGFlNDhlZjc0ZWNmMzYxNTdmMjM0MjM3OGRiOGRmNmU5NWUifQ==, 
+    encrypted => 1, 
+    type => string
+  ], 
+  api_key => [
+    value => eyJpdiI6ImdrS0xuSjJJZVJjdFJNNDRwbTBjVlE9PSIsInZhbHVlIjoiVFwvbnBcL0RLeXVUb2tudDc0MXNuWFlpRWY3R2NkSVk4blVhZlZVZm5IUUY2MklTdVIweG40UURBYWFjeDREVEg0VVwveWN3aWZ4ZUw3MGljd2ticVpkVWc9PSIsIm1hYyI6IjdlZWJmYWMyOTk1NmJlZjlkODVmMTc4NjJhMWU3MTNlMTM2NjViNTkxYzgyY2Y1ZjgyMzQyMzgwYzE4OTgzMDEifQ==, 
+    encrypted => 1, 
+    type => string
+  ], 
+  features::product-tags => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  support-access-notify-admins => [
+    value => ["dev-intercom@salla.sa"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  shipping_fastlo_cod_cities_id => [
+    value => [1,2,3,4,5,6,7,8,11,15,16,18,20,23,24,26,28,30,34,37,38,44,46,47,50,54,68,74,97,89,90,120,131,136,141,142,158,160], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::seo-urls.enable => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::seo-urls.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::seo-urls.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::seo-urls => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mailchimp-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mailchimp-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-app-request.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-custom-statuses => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::stc-pay => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::apple-pay => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::stc-pay.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::apple-pay.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  shipping::webhooh.auth_token => [
+    value => IrwpV6OTf6FT2ASfc5mBct6EGBl, 
+    encrypted => 0, 
+    type => string
+  ], 
+  sms::intercom.api-keys => [
+    value => eyJpdiI6ImFpTEhqWGptSmt6eXBvWEFiUFdHUGc9PSIsInZhbHVlIjoiN2FSNmZIM1RcL1BScDJRYUtqZUxmcU9USzlQQVNGQXJtSlhVcWJaNUJrdnZMdVoxV2hJT2djRXpHaGVLaTE2WDZzb2k0Rm9oR2hWbW1WUmJYRGk2a01PME02WXpTUlwvb29HZHpMK09wU1dvR3dpcmtidTI2NTE1ZGhnYmY3ZGNGTmc4MGNVRFQ0c1ZZb2puK3FVZktrT2RxOFVRYXVDa1BxUUlVUkdBN21rcXhieWlKT2hVZUVnN1JRN0pXRWs3eTZBMDJIbmNUQjRqN256Q1ZtMkwwT0RMSUFxeEtTSVBzdzZIMFB6ZStLYnIrQ0hqZ2ZPZDR2bkFReUdVQndoK21XIiwibWFjIjoiYTlkZmViZDk5Y2U1ZTAyMjBiYjExZjMxYjE5M2UwN2I5NDRiMTk5ZDA4ZGMyNDA4ZDUwMTJiNjYwNDU3M2UzOSJ9, 
+    encrypted => 1, 
+    type => array
+  ], 
+  sms::unifonic.api-keys => [
+    value => eyJpdiI6IjRucXh0XC9cL0Q1SDAxY3VUUjZ2Qzlhdz09IiwidmFsdWUiOiIrZjNVZlZcL1hVWGZuMlQzUG5zWTZVVGJjVVpxbXBKeHNSQkw1SndiWDNpSUtVV21mWEQxWUVrMEFYWHhodWU4MWFjYXpXTFwvcmtibzJUTkhzYU1JYXRteW10NXhzYzI5RHRiWFRDZlR6azE3UExydUp0eXlrVnVBTTA5Sml0SDBSMHZRRmN3OGJhNVNjVG1oYUxtXC9sTDVFb2pwcWtaS29kU1dSQTVwOVFqa1U9IiwibWFjIjoiYTJlYjRlM2ExZjA2Mjg5ZjI5ZjJkOGFhNDcwMzQyNmU3NjQ0ZjRlOGQxODg5MjJjODIwYjU4MDRjNGYwYmY4YiJ9, 
+    encrypted => 1, 
+    type => array
+  ], 
+  sms::msegat.api-keys => [
+    value => eyJpdiI6Ikg0N2V1OVZielZzSW5FNEt2QTdNc3c9PSIsInZhbHVlIjoiODZUQWxwaXhQNEJxMWY1OFNXcEFoa0JDdU5OVUhWR3JcLzNiQ3NKaGxvZksyaGhvY1V5SDEyK3JTUnZyUmNiYWlkaExXMFZac3ZxS2lrcVZiWGF3NDlRdUhSRDI2Y1VTbm9KTmVUaW8wTWV5czFZeTkyZFlvQmFKREVrMXFzZXFyN3BHQ3pYTHUrVVhcL2U5bzRHSEF1M1NPMmRwUHYwcVwvTm0weUJGUFo3SHNvUE5waTV1aFhJK2pzNXN6cTJTWUtrIiwibWFjIjoiZjFkNjg3NThiOWZiZDZmNmMyY2YxODRiZDAzYWRjMWYwNDNiN2JiYmJiZDA1N2UxZDQxZmYwYjIwNTBjOTI0OCJ9, 
+    encrypted => 1, 
+    type => array
+  ], 
+  features::infobip-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mobily-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::intercom-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::msegat-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::unifonic-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::nexmo-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::twilio-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  salla::domains.transfer-price => [
+    value => 7.5, 
+    encrypted => 0, 
+    type => float
+  ], 
+  settings::max-per-page-pagination => [
+    value => 60, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  auth::allow-email => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  products::display-quantity => [
+    value => 0, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  products::quantity-sort => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  pages::feedback.enable => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  products::feedback.enable => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  products::feedback.disable-guest => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  products::categories.show-empty => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  storeapp::store_page.custom_title_main => [
+    value => تست, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.custom_title_main_sub => [
+    value => تست فرعى, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.custom_desscription => [
+    value => <p>ييشسيسييسشيشيشيشي</p>, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.custom_title_form_app_store => [
+    value => , 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.custom_title_form_app_store_sub => [
+    value => , 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.custom_title_form_google_play => [
+    value => , 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.custom_title_form_google_play_sub => [
+    value => , 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_main => [
+    value => عنوان تست, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_main_sub => [
+    value => عنوان فرعى تست, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_desscription => [
+    value => <p style="direction: rtl;"><em><strong>تنبية للتاجر</strong></em></p>, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_form_file => [
+    value => تست 1, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_form_file_sub => [
+    value => وصف قسم رفع الملف تست, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_form_app_store => [
+    value => عنوان اب ستور, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_form_app_store_sub => [
+    value => وصف اب ستور, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_form_google_play => [
+    value => عنوان جوجل بلاى, 
+    encrypted => 0, 
+    type => string
+  ], 
+  storeapp::store_page.salla_title_form_google_play_sub => [
+    value => وصف جوجل بلاى, 
+    encrypted => 0, 
+    type => string
+  ], 
+  salla::mobile-developers => [
+    value => [55,65], 
+    encrypted => 0, 
+    type => array
+  ], 
+  shipping::braq.delivery.support-cities => [
+    value => [1,2,5], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::order-assignment => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-group => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-payment-method => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-group.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-export.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-payment-method.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::coupon-export => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::saee.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::saee => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-availability-notify => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-availability-notify.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::sms-balance.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  google::maps.key => [
+    value => AIzaSyAS1lLADW_PSl2sa1ErjvfLZlKVdRu0Ti8, 
+    encrypted => 0, 
+    type => string
+  ], 
+  features::google-maps-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  products::show_dash_instead => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  salesmachine.api-keys => [
+    value => eyJpdiI6InMxTmtzNVFDNW5cL3JiTFZcL2xLSitPUT09IiwidmFsdWUiOiJtRlozdHhTUWNqUGxrVzc0TmZqQ1VHT284N3dZajVvdVZacUpYVGVwaGx2M0RvZjJwbWEzMHRxMlhQXC93clh4SjNTdHpLT0o3XC9jMTdxNTR1MHd5Qm0zMUxodG9sZTF1VU9LZk5lSEUxOGhvMlE0eHRvY0tuMW5xYjMwRmhzMDdSIiwibWFjIjoiNWMxZjBlMzcyOGE4ODUwOWMxZmE0ODgxMjQzNzdlYTBmMjliOGY3YjU5YTUxMjM3NTA3ZGQ4OWQ5ZDMzMGFjZSJ9, 
+    encrypted => 1, 
+    type => array
+  ], 
+  shipping::update-orders-enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  store::rating.enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  store::rating.days => [
+    value => 7, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  store::rating.message => [
+    value => ياليت نعرف رأيك في الطلب من خلال الرابط :  {رابط التقييم}, 
+    encrypted => 0, 
+    type => string
+  ], 
+  store::generate-payment-period.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  store::generate-payment-period-option.plan => [
+    value => {"weekly":["plus","team","special"],"half_weekly":["team","special"]}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  store::order-rating-message-length => [
+    value => 70, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  features::domain.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::impex.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::fallback.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::fallback => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::advertisements.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::ajeek.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::ajeek => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::aws-email.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::aymakan.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::aymakan => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::barq.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::barq => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::beez.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::beez => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::breadcrumbs.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::bayan-pay.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::bayan-pay => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::pay-tabs.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::google-maps-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::here-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::here-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::location-i-q-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::location-i-q-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::nominatim-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::nominatim-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-store-features.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-store-features => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::diggipacks.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::diggipacks => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::external-services.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::zapier-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::zapier-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::google-tag.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::isnaad.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::isnaad => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mixpanel.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mixpanel => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::my-cn.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::my-cn => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::one-signal.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::addressee-shipping.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-comment.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::order-comment => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::tax.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::dhl-api.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::receiving-orders-limit.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::receiving-orders-limit => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::oto.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::oto => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::e-payment-charity.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-tags.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-option-color-and-image.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::product-option-color-and-image => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::promote-product-video.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::promote-product-video => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::feedback.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::feedback => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::saudi-post.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::saudi-post => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::dhl-shipping-company.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::sms-gateways.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::sms-gateways => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::infobip-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::intercom-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::mobily-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::msegat-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::unifonic-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::nexmo-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::twilio-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::message-bird-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::message-bird-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::jawal-b-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::jawal-b-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::turkey-sms-service.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::turkey-sms-service => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::special-offer.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-ios-app.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-ios-app => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-android-app.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-android-app => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-menu.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::sms-sender.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::store-status.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::support-access.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::remove-salla-copyright.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::track.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::track => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::pay-tabs => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  payment::pay_tabs.express_gateway_enabled => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::esnad-express => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  products::card.equal-height.type => [
+    value => contain, 
+    encrypted => 0, 
+    type => string
+  ], 
+  sms::default_new_sender_provider => [
+    value => msegat, 
+    encrypted => 0, 
+    type => string
+  ], 
+  features::store-tax.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::store-team.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::service-accounting-section.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::store-remove-salla-rights.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::customer-group.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::service-ads-section.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::service-chat-section.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::service-mail-section.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::service-analytics-section.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::service-other-section.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::product-show-category.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::generate-sitemap.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::service-sms-section.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::checkout-geo-location.plan => [
+    value => ["plus","team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  subscription::renew_product_types => [
+    value => ["plan","addon"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  subscription::ended::allowed_days => [
+    value => 5, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  payment::generate-half-weekly-day => [
+    value => mondays, 
+    encrypted => 0, 
+    type => string
+  ], 
+  payment::generate-weekly-day => [
+    value => thursdays, 
+    encrypted => 0, 
+    type => string
+  ], 
+  payment::url-payment-policy => [
+    value => https://s.salla.sa/, 
+    encrypted => 0, 
+    type => string
+  ], 
+  payment::fees-tax => [
+    value => 0, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  salla-store::tax.product_type => [
+    value => ["plan","sms","theme","sender_name","domain","move_domain","ssl_cert","mobile_apps"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  salla-store::tax.product_type_include => [
+    value => ["plan"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  checkout::address.postalCode => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  stc::api-key => [
+    value => eyJpdiI6IldYak14eG95SDl6NFRuclBzUForc2c9PSIsInZhbHVlIjoiRWhleTFCeERWdGZiY2pVZWY0WTRUNGNxZ1wvMXNKQWJiS05RTEhqRWxnUTQ2dzZBQ2JjaVduaFhVSkp3cjhiMEkiLCJtYWMiOiI1ODdmMzg5ODFlNDNmZmFhNjViMDU5M2I0OWIzZjNiZDkyN2FjMWU5MmM4ZGIyMTk4YzJlZDg0NjQyOTAwZjBmIn0=, 
+    encrypted => 1, 
+    type => string
+  ], 
+  sms_sender_manage => [
+    value => {"enabled":false,"disabled_message":"<p>ملاحظات هامة: <br>\n                        نظرا لما يواجهه مزودي خدمة الرسائل النصية من مشاكل لتفعيل اسم المرسل تم  تعطيل رفع اي  طلبات لاسم مرسل بالمنصة\n                        وسيتم اتاحة رفع الطلبات  لحين حل هذه المشاكل\n                    <\/p>وسيتم اتاحة رفع الطلبات  لحين حل هذه المشاكل","enabled_message":""}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  order::shipment => [
+    value => {"default_weight":0.5,"default_unit":"KG"}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::order-filter-assign.plan => [
+    value => ["team","special"], 
+    encrypted => 0, 
+    type => array
+  ], 
+  cpanel::admin-with-feature-access => [
+    value => [1,2,3,4,9,10,11,12,20,22,23,24], 
+    encrypted => 0, 
+    type => array
+  ], 
+  accounting::zoho-settings => [
+    value => {"client_id":"1000.ATXA4ZKB26L0U7MDS8PDFJA2JNMQ2H","client_secret":"66aa99d86073bd809444948aaa960bcbb72848e7b9","redirect_url":"https:\/\/s.salla.sa\/zoho-books\/callback"}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  shipox::show.serviceTypeDropdown => [
+    value => 0, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  api::rate-limit.plus => [
+    value => 60, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  api::rate-limit.team => [
+    value => 120, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  api::rate-limit.special => [
+    value => 180, 
+    encrypted => 0, 
+    type => integer
+  ], 
+  shipping::webhook.beez.auth_token => [
+    value => 14917f79e747c9ec0fe6023ba4c3cb91d80f1304, 
+    encrypted => 0, 
+    type => string
+  ], 
+  features::webhooks.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::webhooks => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  orders::invoice-customize => [
+    value => {"isEnabled":true,"statuses":[4]}, 
+    encrypted => 0, 
+    type => array
+  ], 
+  features::browser-notifications => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ], 
+  features::browser-notifications.released => [
+    value => 1, 
+    encrypted => 0, 
+    type => bool
+  ]
+],
+  key => settings_v2_database_general,
+  tags => []
+]
+listeners.0 
+
+
+
+Params
+0 
+__env
+1 
+app
+2 
+errors
+3 
+show_google_analytics
+4 
+store_color
+5 
+darker
+6 
+darker2
+7 
+lighter
+8 
+lighter2
+9 
+from_salla_app
+10  
+current_route_name
+
+
+
+/home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php
+            return (new Route('OPTIONS', $request->path(), function () use ($methods) {
+                return new Response('', 200, ['Allow' => implode(',', $methods)]);
+            }))->bind($request);
+        }
+ 
+        $this->methodNotAllowed($methods, $request->method());
+    }
+ 
+    /**
+     * Throw a method not allowed HTTP exception.
+     *
+     * @param  array  $others
+     * @param  string  $method
+     * @return void
+     *
+     * @throws \Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException
+     */
+    protected function methodNotAllowed(array $others, $method)
+    {
+        throw new MethodNotAllowedHttpException(
+            $others,
+            sprintf(
+                'The %s method is not supported for this route. Supported methods: %s.',
+                $method,
+                implode(', ', $others)
+            )
+        );
+    }
+ 
+    /**
+     * Get routes from the collection by method.
+     *
+     * @param  string|null  $method
+     * @return array
+
+
+
+
+
+
+     /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php
+    }
+ 
+    /**
+     * Get a route (if necessary) that responds when other available methods are present.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  array  $methods
+     * @return \Illuminate\Routing\Route
+     *
+     * @throws \Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException
+     */
+    protected function getRouteForMethods($request, array $methods)
+    {
+        if ($request->method() === 'OPTIONS') {
+            return (new Route('OPTIONS', $request->path(), function () use ($methods) {
+                return new Response('', 200, ['Allow' => implode(',', $methods)]);
+            }))->bind($request);
+        }
+ 
+        $this->methodNotAllowed($methods, $request->method());
+    }
+ 
+    /**
+     * Throw a method not allowed HTTP exception.
+     *
+     * @param  array  $others
+     * @param  string  $method
+     * @return void
+     *
+     * @throws \Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException
+     */
+    protected function methodNotAllowed(array $others, $method)
+    {
+        throw new MethodNotAllowedHttpException(
+
+
+
+
+        GET Data empty
+POST Data empty
+Files empty
+Cookies
+__cfduid  
+"dc4d5bf570284d54aaa2d1d107f8e27391604908433"
+XSRF-TOKEN  
+"eyJpdiI6InRWcE41bnVuZlNTSmRrc0pWQjlDaVE9PSIsInZhbHVlIjoiNVwvekh1SFkrdWZud21JZDBTdjlSNEFUWVUyNkZMWUtmRDBlcklhK2daN3Rwb3psYTVDTnF4U3BxXC92ZXk1eFlsIiwibWFjIjoiOTI2 ▶"
+sss 
+"eyJpdiI6IkpQOHpQY3BrdUdHQ1h0S09WdXZZS2c9PSIsInZhbHVlIjoiRDVPNko3MHJybzNOUldUTWJBcFhHM3paVDllVGt4V1F2S0RUXC9XbjYzZVpVNzluRlk1aTdQN2lBU0ZvR3Z3Y20iLCJtYWMiOiIyMjYx ▶"
+Session empty
+Server/Request Data
+USER  
+"forge"
+HOME  
+"/home/forge"
+HTTP_CDN_LOOP 
+"cloudflare"
+HTTP_CF_CONNECTING_IP 
+"95.187.243.176"
+HTTP_CF_REQUEST_ID  
+"064da82b7d000038d8d306e000000001"
+HTTP_COOKIE 
+"__cfduid=dc4d5bf570284d54aaa2d1d107f8e27391604908433; XSRF-TOKEN=eyJpdiI6InRWcE41bnVuZlNTSmRrc0pWQjlDaVE9PSIsInZhbHVlIjoiNVwvekh1SFkrdWZud21JZDBTdjlSNEFUWVUyNkZ ▶"
+HTTP_ACCEPT_LANGUAGE  
+"ar,en;q=0.9,en-GB;q=0.8,en-US;q=0.7"
+HTTP_SEC_FETCH_DEST 
+"document"
+HTTP_SEC_FETCH_MODE 
+"navigate"
+HTTP_SEC_FETCH_SITE 
+"none"
+HTTP_ACCEPT 
+"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+HTTP_USER_AGENT 
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63"
+HTTP_UPGRADE_INSECURE_REQUESTS  
+"1"
+HTTP_CF_VISITOR 
+"{"scheme":"https"}"
+HTTP_X_FORWARDED_PROTO  
+"https"
+HTTP_CF_RAY 
+"5ef60fbf2ee638d8-FRA"
+HTTP_X_FORWARDED_FOR  
+"95.187.243.176"
+HTTP_CF_IPCOUNTRY 
+"SA"
+HTTP_ACCEPT_ENCODING  
+"gzip"
+HTTP_CONNECTION 
+"Keep-Alive"
+HTTP_HOST 
+"salla.one"
+REDIRECT_STATUS 
+"200"
+HTTPS 
+"on"
+SERVER_NAME 
+"salla.one"
+SERVER_PORT 
+"443"
+SERVER_ADDR 
+"139.59.158.254"
+REMOTE_PORT 
+""
+REMOTE_ADDR 
+"95.187.243.176"
+SERVER_SOFTWARE 
+"nginx/1.15.8"
+GATEWAY_INTERFACE 
+"CGI/1.1"
+SERVER_PROTOCOL 
+"HTTP/1.1"
+DOCUMENT_ROOT 
+"/home/forge/salla.one/current/public"
+DOCUMENT_URI  
+"/index.php"
+REQUEST_URI 
+"/_debugbar/cache/jCOGogJTPZI4X0NAfxjjZRQu5GBYGxgKD2rUuTmf"
+SCRIPT_NAME 
+"/index.php"
+SCRIPT_FILENAME 
+"/home/forge/salla.one/current/public/index.php"
+CONTENT_LENGTH  
+""
+CONTENT_TYPE  
+""
+REQUEST_METHOD  
+"GET"
+QUERY_STRING  
+""
+FCGI_ROLE 
+"RESPONDER"
+PHP_SELF  
+"/index.php"
+REQUEST_TIME_FLOAT  
+1604909470.6175
+REQUEST_TIME  
+1604909470
+APP_ENV 
+"development"
+APP_KEY 
+"base64:KHlw5kvT7dVjIoBeiY3914q5PijzlDsP+M12lNFRTjU="
+APP_DEBUG 
+"true"
+APP_LOG_LEVEL 
+"debug"
+APP_DOMAIN  
+"salla.one"
+APP_URL 
+"https://salla.one"
+DEBUGBAR_ENABLED  
+"true"
+SENTRY_DNS  
+"https://a6711d6b80bb404290597fc87646ab14@sentry.salla.sa/3"
+APP_CP_DOMAIN 
+"https://s.salla.one"
+APP_STORES_DOMAIN 
+"https://salla.one"
+DB_HOST 
+"127.0.0.1"
+DB_DATABASE 
+"salla"
+DB_USERNAME 
+"forge"
+DB_PASSWORD 
+"7yT8nLyaXUfboPWCOxYa"
+DB_PORT 
+"3306"
+BROADCAST_DRIVER  
+"log"
+CACHE_DRIVER  
+"redis"
+SESSION_DRIVER  
+"redis"
+QUEUE_DRIVER  
+"redis"
+REDIS_HOST  
+"127.0.0.1"
+REDIS_PASSWORD  
+"null"
+REDIS_PORT  
+"6379"
+MAIL_DRIVER 
+"ses"
+MAIL_HOST 
+"email-smtp.eu-central-1.amazonaws.com"
+MAIL_PORT 
+"25"
+MAIL_USERNAME 
+"AKIAT2PZV5Y3HRHURV4P"
+MAIL_PASSWORD 
+"eXdSIQZv/mM1IHvN+K1B/5nA3vZes+3uIrycNWb+"
+MAIL_ENCRYPTION 
+"tls"
+PUSHER_APP_ID 
+""
+PUSHER_KEY  
+""
+PUSHER_SECRET 
+""
+HTTP_LOG  
+"true"
+HTTP_LOG_METHODS  
+"post,put,patch,delete"
+SESSION_CONNECTION  
+"default"
+MODEL_CACHE_DISABLED  
+"TRUE"
+JWT_SECRET  
+"vZc4F13D6EMxvOwsRXlOskc1YYlKhgyK14kKWgMP6oSK63S6wWQ28YGSbMM1W9r2"
+FAILED_JOB_SLACK_WEBHOOK_URL  
+"https://hooks.slack.com/services/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"
+SALLA_LOG_ENABLED 
+"true"
+SALLA_LOG_IP  
+"46.101.98.98"
+SCOUT_DRIVER  
+"Matchish\ScoutElasticSearch\Engines\ElasticSearchEngine"
+ELASTICSEARCH_HOST  
+"127.0.0.1"
+ELASTICSEARCH_PORT  
+"9200"
+ELASTICSEARCH_SCHEME  
+"http"
+CACHE_ROUTES  
+"false"
+GOOGLETAG_ACCOUNT 
+"GTM-N27W52C"
+RESET_HOOK_ENABLED  
+"true"
+HORIZON_DOMAIN  
+"salla.one"
+S3_KEY  
+"AKIAT2PZV5Y3CYVRXI5M"
+S3_SECRET 
+"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"
+S3_BUCKET 
+"salla-dev"
+S3_URL  
+"https://s3-eu-central-1.amazonaws.com/salla-dev/"
+Environment Variables
+APP_ENV 
+"development"
+APP_KEY 
+"base64:KHlw5kvT7dVjIoBeiY3914q5PijzlDsP+M12lNFRTjU="
+APP_DEBUG 
+"true"
+APP_LOG_LEVEL 
+"debug"
+APP_DOMAIN  
+"salla.one"
+APP_URL 
+"https://salla.one"
+DEBUGBAR_ENABLED  
+"true"
+SENTRY_DNS  
+"https://a6711d6b80bb404290597fc87646ab14@sentry.salla.sa/3"
+APP_CP_DOMAIN 
+"https://s.salla.one"
+APP_STORES_DOMAIN 
+"https://salla.one"
+DB_HOST 
+"127.0.0.1"
+DB_DATABASE 
+"salla"
+DB_USERNAME 
+"forge"
+DB_PASSWORD 
+"7yT8nLyaXUfboPWCOxYa"
+DB_PORT 
+"3306"
+BROADCAST_DRIVER  
+"log"
+CACHE_DRIVER  
+"redis"
+SESSION_DRIVER  
+"redis"
+QUEUE_DRIVER  
+"redis"
+REDIS_HOST  
+"127.0.0.1"
+REDIS_PASSWORD  
+"null"
+REDIS_PORT  
+"6379"
+MAIL_DRIVER 
+"ses"
+MAIL_HOST 
+"email-smtp.eu-central-1.amazonaws.com"
+MAIL_PORT 
+"25"
+MAIL_USERNAME 
+"AKIAT2PZV5Y3HRHURV4P"
+MAIL_PASSWORD 
+"eXdSIQZv/mM1IHvN+K1B/5nA3vZes+3uIrycNWb+"
+MAIL_ENCRYPTION 
+"tls"
+PUSHER_APP_ID 
+""
+PUSHER_KEY  
+""
+PUSHER_SECRET 
+""
+HTTP_LOG  
+"true"
+HTTP_LOG_METHODS  
+"post,put,patch,delete"
+SESSION_CONNECTION  
+"default"
+MODEL_CACHE_DISABLED  
+"TRUE"
+JWT_SECRET  
+"vZc4F13D6EMxvOwsRXlOskc1YYlKhgyK14kKWgMP6oSK63S6wWQ28YGSbMM1W9r2"
+FAILED_JOB_SLACK_WEBHOOK_URL  
+"https://hooks.slack.com/services/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"
+SALLA_LOG_ENABLED 
+"true"
+SALLA_LOG_IP  
+"46.101.98.98"
+SCOUT_DRIVER  
+"Matchish\ScoutElasticSearch\Engines\ElasticSearchEngine"
+ELASTICSEARCH_HOST  
+"127.0.0.1"
+ELASTICSEARCH_PORT  
+"9200"
+ELASTICSEARCH_SCHEME  
+"http"
+CACHE_ROUTES  
+"false"
+GOOGLETAG_ACCOUNT 
+"GTM-N27W52C"
+RESET_HOOK_ENABLED  
+"true"
+HORIZON_DOMAIN  
+"salla.one"
+S3_KEY  
+"AKIAT2PZV5Y3CYVRXI5M"
+S3_SECRET 
+"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"
+S3_BUCKET 
+"salla-dev"
+S3_URL  
+"https://s3-eu-central-1.amazonaws.com/salla-dev/"
+APP_ROUTES_CACHE  
+"/home/forge/salla.one/releases/20201108163119/bootstrap/cache/routes/salla.one-routes.php"
+Registered Handlers
+0. Whoops\Handler\PrettyPageHandler
+
+
+
+
+Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException thrown with message "The GET method is not supported for this route. Supported methods: DELETE."
+
+Stacktrace:
+#30 Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:256
+#29 Illuminate\Routing\RouteCollection:methodNotAllowed in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:242
+#28 Illuminate\Routing\RouteCollection:getRouteForMethods in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:176
+#27 Illuminate\Routing\RouteCollection:match in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Router.php:634
+#26 Illuminate\Routing\Router:findRoute in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Router.php:623
+#25 Illuminate\Routing\Router:dispatchToRoute in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Router.php:612
+#24 Illuminate\Routing\Router:dispatch in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:176
+#23 Illuminate\Foundation\Http\Kernel:Illuminate\Foundation\Http\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:30
+#22 Illuminate\Routing\Pipeline:Illuminate\Routing\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/barryvdh/laravel-debugbar/src/Middleware/InjectDebugbar.php:65
+#21 Barryvdh\Debugbar\Middleware\InjectDebugbar:handle in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:163
+#20 Illuminate\Pipeline\Pipeline:Illuminate\Pipeline\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:53
+#19 Illuminate\Routing\Pipeline:Illuminate\Routing\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21
+#18 Illuminate\Foundation\Http\Middleware\TransformsRequest:handle in /home/forge/salla.one/releases/20201108163119/vendor/yemenifree/laravel-arabic-numbers-middleware/src/Middleware/BaseNumbersMiddleware.php:52
+#17 Yemenifree\LaravelArabicNumbersMiddleware\Middleware\BaseNumbersMiddleware:handle in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:163
+#16 Illuminate\Pipeline\Pipeline:Illuminate\Pipeline\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:53
+#15 Illuminate\Routing\Pipeline:Illuminate\Routing\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21
+#14 Illuminate\Foundation\Http\Middleware\TransformsRequest:handle in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:163
+#13 Illuminate\Pipeline\Pipeline:Illuminate\Pipeline\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:53
+#12 Illuminate\Routing\Pipeline:Illuminate\Routing\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/fideloper/proxy/src/TrustProxies.php:57
+#11 Fideloper\Proxy\TrustProxies:handle in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:163
+#10 Illuminate\Pipeline\Pipeline:Illuminate\Pipeline\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:53
+#9 Illuminate\Routing\Pipeline:Illuminate\Routing\{closure} in /home/forge/salla.one/releases/20201108163119/app/Http/Middleware/NoCache.php:18
+#8 App\Http\Middleware\NoCache:handle in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:163
+#7 Illuminate\Pipeline\Pipeline:Illuminate\Pipeline\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:53
+#6 Illuminate\Routing\Pipeline:Illuminate\Routing\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php:62
+#5 Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode:handle in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:163
+#4 Illuminate\Pipeline\Pipeline:Illuminate\Pipeline\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:53
+#3 Illuminate\Routing\Pipeline:Illuminate\Routing\{closure} in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:104
+#2 Illuminate\Pipeline\Pipeline:then in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:151
+#1 Illuminate\Foundation\Http\Kernel:sendRequestThroughRouter in /home/forge/salla.one/releases/20201108163119/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:116
+#0 Illuminate\Foundation\Http\Kernel:handle in /home/forge/salla.one/releases/20201108163119/public/index.php:60
+
